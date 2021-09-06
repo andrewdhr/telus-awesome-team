@@ -1,0 +1,82 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome Team – Meeting Notes</title>
+    <link>/telus-awesome-team/blog/meetings/</link>
+    <description>Recent content in Meeting Notes on Awesome Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/telus-awesome-team/blog/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Blog: 2021-08-15</title>
+      <link>/telus-awesome-team/blog/2021/08/15/2021-08-15/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/telus-awesome-team/blog/2021/08/15/2021-08-15/</guid>
+      <description>
+        
+        
+        &lt;!-----
+NEW: Check the &#34;Suppress top comment&#34; option to remove this info from the output.
+
+Conversion time: 0.313 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β31
+* Mon Sep 06 2021 10:03:09 GMT-0700 (PDT)
+* Source doc: Meeting notes
+
+WARNING:
+You have 5 H1 headings. You may want to use the &#34;H1 -&gt; H2&#34; option to demote all headings by one level.
+
+-----&gt;
+&lt;h2 id=&#34;attendees&#34;&gt;Attendees&lt;/h2&gt;
+&lt;p&gt;Wendy Writer, Ronny Reader, Abby Author&lt;/p&gt;
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
+&lt;h2 id=&#34;last-meeting-follow-up&#34;&gt;Last Meeting Follow-up&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;new-business&#34;&gt;New Business&lt;/h2&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Suspendisse scelerisque mi a mi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lorem ipsum dolor sit amet&lt;/strong&gt; consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Suspendisse scelerisque mi a mi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vestibulum ante ipsum primis elementum&lt;/strong&gt;, libero interdum auctor cursus, sapien enim dictum quam.
+&lt;ul&gt;
+&lt;li&gt;Phasellus vehicula nonummy nunc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;action-items&#34;&gt;Action Items&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Suspendisse scelerisque mi a mi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;next-meeting-agenda&#34;&gt;Next Meeting Agenda&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
