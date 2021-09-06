@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/telus-awesome-team"
 title = "Awesome Team"
 
 enableRobotsTXT = true
