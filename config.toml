@@ -83,7 +83,7 @@ time_format_blog = "2006-01-02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "TELUS®"
+copyright = "TELUS"
 # the link to the define the privacy or confidentiality of the contents
 privacy_policy = "https://policies.google.com/privacy"
 
