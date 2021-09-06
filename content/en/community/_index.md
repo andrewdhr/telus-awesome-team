@@ -1,3 +1,4 @@
+ <!-- Workspace Tab -->
 ---
 title: Workspace
 menu:

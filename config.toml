@@ -168,26 +168,26 @@ enable = true
 	name = "Slack"
 	url = "https://example.org/"
 	icon = "fab fa-slack"
-        desc = "Our Slack Channel"
+        desc = "Our Slack Channel."
 [[params.links.user]]
-	name ="Google Drive"
+	name ="Drive"
 	url = "https://example.org/"
 	icon = "fas fa-folder-open"
-        desc = "The team's Google Drive folder."
+        desc = "Our Google Drive folder."
 [[params.links.user]]
-	name = "DevOps Repo"
+	name = "DevOps"
 	url = "https://github.com/"
 	icon = "fas fa-code"
-        desc = "Project development takes place here!"
+        desc = "Project development takes place here."
 [[params.links.user]]
-	name = "Outlook dl"
+	name = "Outlook"
 	url = "mailto:example@telus.com"
 	icon = "fa fa-envelope"
-        desc = "TELUS dl"
+        desc = "Our team email at TELUS."
 # These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "Docs Repo"
 	url = "https://github.com/andrewdhr/telus-awesome-team"
 	icon = "fab fa-github"
-        desc = "Add your docs here!"
+        desc = "The GitHub repository for this wesbite."
 
