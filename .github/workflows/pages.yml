@@ -4,9 +4,10 @@ name: hugo CI
 on:
   push:
     branches: [ master ]
+  pull_request:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,8 +30,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: andrewdhr/telus-awesome-team
-          publish_branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
