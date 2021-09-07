@@ -33,4 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: demo # default: gh-pages
-          publish_dir: ./docs
+          publish_dir: ./public
