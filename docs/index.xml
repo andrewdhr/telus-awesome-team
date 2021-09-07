@@ -1,260 +1,186 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Awesome Team – Awesome Team</title>
-    <link>/telus-awesome-team/</link>
-    <description>Recent content on Awesome Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/telus-awesome-team/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-    <item>
-      <title>Blog: 2021-08-15</title>
-      <link>/telus-awesome-team/blog/2021/08/15/2021-08-15/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/telus-awesome-team/blog/2021/08/15/2021-08-15/</guid>
-      <description>
-        
-        
-        &lt;!-----
-NEW: Check the &#34;Suppress top comment&#34; option to remove this info from the output.
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Awesome Team – Awesome Team</title><link>/telus-awesome-team/</link><description>Recent content on Awesome Team</description><generator>Hugo -- gohugo.io</generator><atom:link href="/telus-awesome-team/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 2021-08-15</title><link>/telus-awesome-team/blog/2021/08/15/2021-08-15/</link><pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate><guid>/telus-awesome-team/blog/2021/08/15/2021-08-15/</guid><description>
+&lt;!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
 Conversion time: 0.313 seconds.
-
-
 Using this Markdown file:
-
 1. Paste this output into your source file.
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
+formatting and use a linkchecker before you publish this page.
 Conversion notes:
-
 * Docs to Markdown version 1.0β31
 * Mon Sep 06 2021 10:03:09 GMT-0700 (PDT)
 * Source doc: Meeting notes
-
 WARNING:
-You have 5 H1 headings. You may want to use the &#34;H1 -&gt; H2&#34; option to demote all headings by one level.
-
------&gt;
-&lt;h2 id=&#34;attendees&#34;&gt;Attendees&lt;/h2&gt;
-&lt;p&gt;Wendy Writer, Ronny Reader, Abby Author&lt;/p&gt;
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
-&lt;h2 id=&#34;last-meeting-follow-up&#34;&gt;Last Meeting Follow-up&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;new-business&#34;&gt;New Business&lt;/h2&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Suspendisse scelerisque mi a mi.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Lorem ipsum dolor sit amet&lt;/strong&gt; consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Suspendisse scelerisque mi a mi.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vestibulum ante ipsum primis elementum&lt;/strong&gt;, libero interdum auctor cursus, sapien enim dictum quam.
-&lt;ul&gt;
-&lt;li&gt;Phasellus vehicula nonummy nunc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;action-items&#34;&gt;Action Items&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Suspendisse scelerisque mi a mi&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;next-meeting-agenda&#34;&gt;Next Meeting Agenda&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blog: v1.1</title>
-      <link>/telus-awesome-team/blog/2020/07/04/v1.1/</link>
-      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/telus-awesome-team/blog/2020/07/04/v1.1/</guid>
-      <description>
-        
-        
-        &lt;!-----
-NEW: Check the &#34;Suppress top comment&#34; option to remove this info from the output.
-
+You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+----->
+&lt;h2 id="attendees">Attendees&lt;/h2>
+&lt;p>Wendy Writer, Ronny Reader, Abby Author&lt;/p>
+&lt;h2 id="agenda">Agenda&lt;/h2>
+&lt;h2 id="last-meeting-follow-up">Last Meeting Follow-up&lt;/h2>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li>
+&lt;/ol>
+&lt;h2 id="new-business">New Business&lt;/h2>
+&lt;ol start="2">
+&lt;li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li>
+&lt;li>Suspendisse scelerisque mi a mi.&lt;/li>
+&lt;/ol>
+&lt;h2 id="notes">Notes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Lorem ipsum dolor sit amet&lt;/strong> consectetuer adipiscing elit.&lt;/li>
+&lt;li>Suspendisse scelerisque mi a mi.&lt;/li>
+&lt;li>&lt;strong>Vestibulum ante ipsum primis elementum&lt;/strong>, libero interdum auctor cursus, sapien enim dictum quam.
+&lt;ul>
+&lt;li>Phasellus vehicula nonummy nunc.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="action-items">Action Items&lt;/h2>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet consectetuer adipiscing elit.&lt;/li>
+&lt;li>Suspendisse scelerisque mi a mi&lt;/li>
+&lt;/ol>
+&lt;h2 id="next-meeting-agenda">Next Meeting Agenda&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/p></description></item><item><title>Blog: v1.1</title><link>/telus-awesome-team/blog/2020/07/04/v1.1/</link><pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate><guid>/telus-awesome-team/blog/2020/07/04/v1.1/</guid><description>
+&lt;!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
 Conversion time: 0.535 seconds.
-
-
 Using this Markdown file:
-
 1. Paste this output into your source file.
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
+formatting and use a linkchecker before you publish this page.
 Conversion notes:
-
 * Docs to Markdown version 1.0β31
 * Mon Sep 06 2021 10:01:13 GMT-0700 (PDT)
 * Source doc: NOTES
------&gt;
-&lt;p&gt;MDL v1.3 adds some fixes that have been committed since 1.2.1, as well as a new feature.&lt;/p&gt;
-&lt;h2 id=&#34;new-prevent-automatic-upgrading&#34;&gt;&lt;strong&gt;New: prevent automatic upgrading&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/AlexanderOtavka&#34;&gt;@AlexanderOtavka&lt;/a&gt; &lt;a href=&#34;https://github.com/google/material-design-lite/commit/ef69a4a666b8335f52ecc09d88f86d09da24c67b&#34;&gt;added the ability to disable auto-upgrading&lt;/a&gt;! This is useful if you want to manage the component lifecycle yourself, such as if you&amp;rsquo;re integrating with a framework.&lt;/p&gt;
-&lt;p&gt;In order to do this, register an event listener for the &lt;code&gt;mdl-componentupgrading&lt;/code&gt; event. Once you receive an event, you can choose whether or not to cancel it, giving you control on a per-component basis.&lt;/p&gt;
-&lt;h2 id=&#34;bug-fixes-and-improvements&#34;&gt;&lt;strong&gt;Bug fixes and improvements&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chajath&#34;&gt;@chajath&lt;/a&gt; &lt;a href=&#34;https://github.com/google/material-design-lite/commit/b353f83e09769bdaafc2c2377d8b09e5450b1f5e&#34;&gt;added an option to disable JS layout switching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/MitchLillie&#34;&gt;@MitchLillie&lt;/a&gt; &lt;a href=&#34;https://github.com/google/material-design-lite/commit/14b6cb1c52c32009427110c9da130e9ae7eac895&#34;&gt;improved tab handling to allow more types of links&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/leocaseiro&#34;&gt;@leocaseiro&lt;/a&gt; added the &lt;code&gt;mdl-card--border&lt;/code&gt; option to &lt;code&gt;mdl-card__supporting-text&lt;/code&gt;(&lt;code&gt;&lt;a href=&#34;https://github.com/google/material-design-lite/commit/4ee5202c6c934096ad8edfe7eb94fc29f133e42d&#34;&gt;4ee5202&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/enniel&#34;&gt;@enniel&lt;/a&gt; fixed a bug with spinners and some documentation typos&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pndewit&#34;&gt;@pndewit&lt;/a&gt; fixed a bug with vertical alignment in radios&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ko22009&#34;&gt;@ko22009&lt;/a&gt; fixed several unit tests&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hanyuzhou2006&#34;&gt;@hanyuzhou2006&lt;/a&gt; fixed a bug in ripples&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Abradoks&#34;&gt;@Abradoks&lt;/a&gt; improved support for older browsers in radios&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thank you to all the contributors, and sorry if I missed anyone above!&lt;/p&gt;
-&lt;h2 id=&#34;mdc-web-and-plans-for-the-future&#34;&gt;&lt;strong&gt;MDC-Web and plans for the future&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;As you may have noticed, an alpha for &lt;a href=&#34;https://github.com/material-components/material-components-web&#34;&gt;Material Components for the web&lt;/a&gt; (MDC-Web) was recently released.&lt;/p&gt;
-&lt;p&gt;MDC-Web started life as version 2 of Material Design Lite, but has since evolved into a project of its own, with a broader team and a strong focus on providing a high-quality Material Design implementation for all of the web.&lt;/p&gt;
-&lt;p&gt;Here are some of the highlights of what you can expect:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Modular components, served as independent NPM packages (as well as a large all-in-one meta-package)&lt;/li&gt;
-&lt;li&gt;Manual lifecycle control, with an opt-in auto-init option&lt;/li&gt;
-&lt;li&gt;Stronger focus on progressive enhancement, performance, and accessibility&lt;/li&gt;
-&lt;li&gt;Internals built with low-level architecture to facilitate integration into frameworks&lt;/li&gt;
-&lt;li&gt;Still fully vanilla: no polyfills or frameworks needed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The project is still in its alpha stage, so expect to find a lot of missing components, and to see significant churn as we make changes based on your feedback!&lt;/p&gt;
-&lt;h3 id=&#34;what-happens-to-material-design-lite&#34;&gt;&lt;strong&gt;What happens to Material Design Lite?&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Material Design Lite (v1) will remain available, with limited support. We don’t have the resources to fully maintain both projects, so we won’t be doing any further development on MDL ourselves.&lt;/p&gt;
-&lt;p&gt;That said, we’ll do our best to be around to fix critical bugs and accept PRs from the community, as well as release those in new versions. This model has worked well ever since we started the v2 work that eventually resulted in MDC-Web, with new components, new features, and many bugfixes contributed since then.&lt;/p&gt;
-&lt;p&gt;With this approach, we plan to give developers time to migrate to MDC-Web as the project matures and the community grows.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/google/material-design-lite/compare/7f57f99436d8705393a7f39c2bcc69410c5ca033...745f2dd25b6bfe45297b41ac23bea5a3001f7def&#34;&gt;Full 1.3.0 changelist&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Downloads:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/google/material-design-lite/archive/v1.3.0.zip&#34;&gt;material-design-lite-1.3.0.zip&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MD5: c6ec30e0470491e58ad2c69aefcbfce9&lt;/p&gt;
-&lt;p&gt;SHA1: 123dd0c30b2aa03fc37ae8216276547461dd115c&lt;/p&gt;
-&lt;p&gt;SHA256: ce746c6483c357da5642915c38b01b03d124c37565855b6f60b7d87e74228fea&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/google/material-design-lite/archive/v1.3.0.tar.gz&#34;&gt;material-design-lite-1.3.0.tar.gz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MD5: 18201311fc4c71b581ca717f4ead3992&lt;/p&gt;
-&lt;p&gt;SHA1: 3aff5e0ec9e31ad1a8e57e9365c7ac113f1d6def&lt;/p&gt;
-&lt;p&gt;SHA256: 4b4ab9845dba0e6a6fda172d69aff6da72c3e429dc1f3d30fa0935d315f40cb6&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blog: v0.9-beta</title>
-      <link>/telus-awesome-team/blog/2018/01/04/v0.9-beta/</link>
-      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/telus-awesome-team/blog/2018/01/04/v0.9-beta/</guid>
-      <description>
-        
-        
-        &lt;!-----
-NEW: Check the &#34;Suppress top comment&#34; option to remove this info from the output.
-
+----->
+&lt;p>MDL v1.3 adds some fixes that have been committed since 1.2.1, as well as a new feature.&lt;/p>
+&lt;h2 id="new-prevent-automatic-upgrading">&lt;strong>New: prevent automatic upgrading&lt;/strong>&lt;/h2>
+&lt;p>&lt;a href="https://github.com/AlexanderOtavka">@AlexanderOtavka&lt;/a> &lt;a href="https://github.com/google/material-design-lite/commit/ef69a4a666b8335f52ecc09d88f86d09da24c67b">added the ability to disable auto-upgrading&lt;/a>! This is useful if you want to manage the component lifecycle yourself, such as if you&amp;rsquo;re integrating with a framework.&lt;/p>
+&lt;p>In order to do this, register an event listener for the &lt;code>mdl-componentupgrading&lt;/code> event. Once you receive an event, you can choose whether or not to cancel it, giving you control on a per-component basis.&lt;/p>
+&lt;h2 id="bug-fixes-and-improvements">&lt;strong>Bug fixes and improvements&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/chajath">@chajath&lt;/a> &lt;a href="https://github.com/google/material-design-lite/commit/b353f83e09769bdaafc2c2377d8b09e5450b1f5e">added an option to disable JS layout switching&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MitchLillie">@MitchLillie&lt;/a> &lt;a href="https://github.com/google/material-design-lite/commit/14b6cb1c52c32009427110c9da130e9ae7eac895">improved tab handling to allow more types of links&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/leocaseiro">@leocaseiro&lt;/a> added the &lt;code>mdl-card--border&lt;/code> option to &lt;code>mdl-card__supporting-text&lt;/code>(&lt;code>&lt;a href="https://github.com/google/material-design-lite/commit/4ee5202c6c934096ad8edfe7eb94fc29f133e42d">4ee5202&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;a href="https://github.com/enniel">@enniel&lt;/a> fixed a bug with spinners and some documentation typos&lt;/li>
+&lt;li>&lt;a href="https://github.com/pndewit">@pndewit&lt;/a> fixed a bug with vertical alignment in radios&lt;/li>
+&lt;li>&lt;a href="https://github.com/ko22009">@ko22009&lt;/a> fixed several unit tests&lt;/li>
+&lt;li>&lt;a href="https://github.com/hanyuzhou2006">@hanyuzhou2006&lt;/a> fixed a bug in ripples&lt;/li>
+&lt;li>&lt;a href="https://github.com/Abradoks">@Abradoks&lt;/a> improved support for older browsers in radios&lt;/li>
+&lt;/ul>
+&lt;p>Thank you to all the contributors, and sorry if I missed anyone above!&lt;/p>
+&lt;h2 id="mdc-web-and-plans-for-the-future">&lt;strong>MDC-Web and plans for the future&lt;/strong>&lt;/h2>
+&lt;p>As you may have noticed, an alpha for &lt;a href="https://github.com/material-components/material-components-web">Material Components for the web&lt;/a> (MDC-Web) was recently released.&lt;/p>
+&lt;p>MDC-Web started life as version 2 of Material Design Lite, but has since evolved into a project of its own, with a broader team and a strong focus on providing a high-quality Material Design implementation for all of the web.&lt;/p>
+&lt;p>Here are some of the highlights of what you can expect:&lt;/p>
+&lt;ul>
+&lt;li>Modular components, served as independent NPM packages (as well as a large all-in-one meta-package)&lt;/li>
+&lt;li>Manual lifecycle control, with an opt-in auto-init option&lt;/li>
+&lt;li>Stronger focus on progressive enhancement, performance, and accessibility&lt;/li>
+&lt;li>Internals built with low-level architecture to facilitate integration into frameworks&lt;/li>
+&lt;li>Still fully vanilla: no polyfills or frameworks needed&lt;/li>
+&lt;/ul>
+&lt;p>The project is still in its alpha stage, so expect to find a lot of missing components, and to see significant churn as we make changes based on your feedback!&lt;/p>
+&lt;h3 id="what-happens-to-material-design-lite">&lt;strong>What happens to Material Design Lite?&lt;/strong>&lt;/h3>
+&lt;p>Material Design Lite (v1) will remain available, with limited support. We don’t have the resources to fully maintain both projects, so we won’t be doing any further development on MDL ourselves.&lt;/p>
+&lt;p>That said, we’ll do our best to be around to fix critical bugs and accept PRs from the community, as well as release those in new versions. This model has worked well ever since we started the v2 work that eventually resulted in MDC-Web, with new components, new features, and many bugfixes contributed since then.&lt;/p>
+&lt;p>With this approach, we plan to give developers time to migrate to MDC-Web as the project matures and the community grows.&lt;/p>
+&lt;p>&lt;a href="https://github.com/google/material-design-lite/compare/7f57f99436d8705393a7f39c2bcc69410c5ca033...745f2dd25b6bfe45297b41ac23bea5a3001f7def">Full 1.3.0 changelist&lt;/a>.&lt;/p>
+&lt;p>Downloads:&lt;/p>
+&lt;p>&lt;a href="https://github.com/google/material-design-lite/archive/v1.3.0.zip">material-design-lite-1.3.0.zip&lt;/a>&lt;/p>
+&lt;p>MD5: c6ec30e0470491e58ad2c69aefcbfce9&lt;/p>
+&lt;p>SHA1: 123dd0c30b2aa03fc37ae8216276547461dd115c&lt;/p>
+&lt;p>SHA256: ce746c6483c357da5642915c38b01b03d124c37565855b6f60b7d87e74228fea&lt;/p>
+&lt;p>&lt;a href="https://github.com/google/material-design-lite/archive/v1.3.0.tar.gz">material-design-lite-1.3.0.tar.gz&lt;/a>&lt;/p>
+&lt;p>MD5: 18201311fc4c71b581ca717f4ead3992&lt;/p>
+&lt;p>SHA1: 3aff5e0ec9e31ad1a8e57e9365c7ac113f1d6def&lt;/p>
+&lt;p>SHA256: 4b4ab9845dba0e6a6fda172d69aff6da72c3e429dc1f3d30fa0935d315f40cb6&lt;/p></description></item><item><title>Blog: v0.9-beta</title><link>/telus-awesome-team/blog/2018/01/04/v0.9-beta/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate><guid>/telus-awesome-team/blog/2018/01/04/v0.9-beta/</guid><description>
+&lt;!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
 Conversion time: 0.875 seconds.
-
-
 Using this Markdown file:
-
 1. Paste this output into your source file.
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
+formatting and use a linkchecker before you publish this page.
 Conversion notes:
-
 * Docs to Markdown version 1.0β31
 * Mon Sep 06 2021 09:59:35 GMT-0700 (PDT)
 * Source doc: NOTES
------&gt;
-&lt;p&gt;GoogleTest will not accept patches of new features to v1.11.0.&lt;/p&gt;
-&lt;p&gt;We recommend building GoogleTest from the latest commit instead.&lt;/p&gt;
-&lt;p&gt;Exceptional critical bug fixes may be considered.&lt;/p&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Contents significantly updated&lt;/li&gt;
-&lt;li&gt;Files moved into docs (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/489283524e3726b7adb9692763c2fb61b235d41a&#34;&gt;4892835&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Now using &lt;a href=&#34;https://google.github.io/googletest/&#34;&gt;GitHub pages&lt;/a&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/1a5a78b9a9c6c285a7897a411cb96bb2ab36d277&#34;&gt;1a5a78b&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/d9c309fdab807b716c2cf4d4a42989b8c34f712a&#34;&gt;d9c309f&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/c3fc92f0b7ad49ce59d804dc644dcb5ecbc0c29c&#34;&gt;c3fc92f&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Added Bazel quickstart (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/32ad3c8c36382165274385a28a23addbea581f5d&#34;&gt;32ad3c8&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Added CMake quickstart (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/d4e3b8cedf4f57922efa586cb3c796c8fee2d3f3&#34;&gt;d4e3b8c&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;strongmockingstrong&#34;&gt;&lt;strong&gt;Mocking&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;MOCK_METHOD&lt;/code&gt; now handles noexcept correctly (&lt;a href=&#34;https://github.com/google/googletest/pull/2498&#34;&gt;#2498&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;MOCK_METHOD&lt;/code&gt; now supports ref-qualifiers (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/d89b36302116233b8c6377e6e891083f41ee51c5&#34;&gt;d89b363&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;MOCK_METHOD&lt;/code&gt; now supports returning function pointers (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/1f9edcd9698162b48d94e1ef2e6a2ab7ab4e6c56&#34;&gt;1f9edcd&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;DoAll&lt;/code&gt; now accepts move-only arguments (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/48ec64092a38621210ecd835fde61d76861269c1&#34;&gt;48ec640&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;MockFunction&lt;/code&gt; can now be used for mocking &lt;code&gt;std::function&lt;/code&gt; (&lt;a href=&#34;https://github.com/google/googletest/pull/2350&#34;&gt;#2350&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;MockFunction&lt;/code&gt; is now templated for use with other function classes, besides &lt;code&gt;std::function&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/662fe38e44900c007eccb65a5d2ea19df7bd520e&#34;&gt;662fe38&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;ACTION&lt;/code&gt; macros now support more than 10 arguments (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/63713e1ce49019da205daa1ca91b73fcfc9b333f&#34;&gt;63713e1&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;strongmatchersstrong&#34;&gt;&lt;strong&gt;Matchers&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;New matchers
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;IsNan&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/bbe4b7363bbaa7c9e07dbacde11602a4c69504d3&#34;&gt;bbe4b73&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;FieldsAre&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/a4621888650aaae118de93f9faf8ef5a18cab303&#34;&gt;a462188&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Pointer&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/a02a591605dfef9addde49634bf010dbe8f95c50&#34;&gt;a02a591&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Address&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/e5644f5f12ff3d5b2232dabc1c5ea272a52e8155&#34;&gt;e5644f5&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Throws&lt;/code&gt; and &lt;code&gt;ThrowsMessage&lt;/code&gt; (&lt;a href=&#34;https://github.com/google/googletest/pull/2904&#34;&gt;#2904&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;New actions
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;ReturnRoundRobin&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/37f322783175a66c11785d17fc153477b0777753&#34;&gt;37f3227&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;Matcher&amp;lt;std::string_view&amp;gt;&lt;/code&gt; specialization that internally stores a &lt;code&gt;string&lt;/code&gt; instead of &lt;code&gt;string_view&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/6f5fd0d7199b9a19faa9f499ecc266e6ae0329e7&#34;&gt;6f5fd0d&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;String matchers now accept &lt;code&gt;string_view&lt;/code&gt; input (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/13a433a94dd9c7e55907d7a9b75f44ff82f309eb&#34;&gt;13a433a&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;DoubleNearPredFormat&lt;/code&gt; matcher now fails on impractically small epsilons (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/b5687db554a295e697f5d459cf6d3f343d2ca179&#34;&gt;b5687db&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Truly&lt;/code&gt; matcher now explains failures (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/0c400f67fcf305869c5fb113dd296eca266c9725&#34;&gt;0c400f6&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Matchers can now be implemented without extending &lt;code&gt;MatcherInterface&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/c13c27a513ecd1cbf5700a45fe590e85e8ae6770&#34;&gt;c13c27a&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Added output messages for skipped tests (&lt;a href=&#34;https://github.com/google/googletest/pull/2517&#34;&gt;#2517&lt;/a&gt;, &lt;a href=&#34;https://github.com/google/googletest/pull/2767&#34;&gt;#2767&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;strongbehaviorstrong&#34;&gt;&lt;strong&gt;Behavior&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;New flags
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;--gtest_brief&lt;/code&gt; shows only test failures in output (&lt;a href=&#34;https://github.com/google/googletest/pull/2751&#34;&gt;#2751&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;--gtest_fail_fast&lt;/code&gt; stops test execution on first failure (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/1ced315a483f4ecac21893ce6ceeb502afb82eff&#34;&gt;1ced315&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Failures in &lt;code&gt;SetUpTestSuite&lt;/code&gt; and &lt;code&gt;TearDownTestSuite&lt;/code&gt; now cause tests to fail rather than log (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/9ed99c6c837ae1cbfcabd36959fc802ebb5ae07f&#34;&gt;9ed99c6&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Uninstantiated &lt;code&gt;TEST_P&lt;/code&gt; and &lt;code&gt;TYPED_TEST_P&lt;/code&gt; now fail unless allowlisted using &lt;code&gt;GTEST_ALLOW_UNINSTANTIATED_PARAMETERIZED_TEST&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/d442089d53cecbba59b2d8f35d06eac01f1e46da&#34;&gt;d442089&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/a13a0626188b4e7d22d63a4c9fcfe9f441c81e4a&#34;&gt;a13a062&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/0b024bd91a14a77a7e7d6072ccd88e09c86ddeaa&#34;&gt;0b024bd&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/3e79d366e380ec85b7de9409211b184bc8529655&#34;&gt;3e79d36&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/ec94d9f24c92a5090fda5567156d6dde99cdbf31&#34;&gt;ec94d9f&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;strongoutputstrong&#34;&gt;&lt;strong&gt;Output&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added specialized printing for &lt;code&gt;std::any&lt;/code&gt;, &lt;code&gt;std::optional&lt;/code&gt;, and &lt;code&gt;std::variant&lt;/code&gt; (&lt;a href=&#34;https://github.com/google/googletest/pull/2742&#34;&gt;#2742&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Added recursive printing for &lt;code&gt;std::unique_ptr&lt;/code&gt; and &lt;code&gt;std::shared_ptr&lt;/code&gt; (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/6b2e74905e9a7e70c7d1017ee0dfe5a8e88a1300&#34;&gt;6b2e749&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Printing incomplete types is now supported (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/f8304d762e0ed119d3d1c72deb1976dc80029db5&#34;&gt;f8304d7&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Start timestamps in XML/JSON output now use millisecond precision (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/af1e75ce0b3429d70790c049d8dbb0aae3e2480f&#34;&gt;af1e75c&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Added more structured information about test suite to XML/JSON output on environment failures (&lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/ac1d60c2b5ae62a06eca1d2c0f9d6dc92cda8711&#34;&gt;ac1d60c&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;strongbuild--teststrong&#34;&gt;&lt;strong&gt;Build &amp;amp; Test&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;CMake minimum increased to 2.8.12 (&lt;a href=&#34;https://github.com/google/googletest/pull/3094&#34;&gt;#3094&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;GoogleTest is now using Kokoro CI instead of Travis and AppVeyor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;misc&#34;&gt;&lt;strong&gt;Misc&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Removed support for &lt;code&gt;GTEST_HAS_STD_STRING&lt;/code&gt; (&lt;a href=&#34;https://github.com/google/googletest/pull/2456&#34;&gt;#2456&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Replaced pump code generation with variadic templates (&lt;a href=&#34;https://github.com/google/googletest/pull/2388&#34;&gt;#2388&lt;/a&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/d8eeb9760afcab45dbdd887c2b6d106887c1739d&#34;&gt;d8eeb97&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/4b9c1691c4b7f01fbd9d37d86c88cdad298d48e9&#34;&gt;4b9c169&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/fbf67a70d07543f40832d0cd7a58f304bc6ab1d1&#34;&gt;fbf67a7&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/41b5f149ab306e96b5b2faf523505d75acffd98a&#34;&gt;41b5f14&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/710f9c11ca79e578bb38d98d10ab9b70d41d5e07&#34;&gt;710f9c1&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/997c36c1881105bd7ce482a1ec93759badf64ce6&#34;&gt;997c36c&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://github.com/google/googletest/commit/59dea67b815a046122d77113d5c6df1df66076bb&#34;&gt;59dea67&lt;/a&gt;&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+----->
+&lt;p>GoogleTest will not accept patches of new features to v1.11.0.&lt;/p>
+&lt;p>We recommend building GoogleTest from the latest commit instead.&lt;/p>
+&lt;p>Exceptional critical bug fixes may be considered.&lt;/p>
+&lt;h2 id="documentation">&lt;strong>Documentation&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Contents significantly updated&lt;/li>
+&lt;li>Files moved into docs (&lt;code>&lt;a href="https://github.com/google/googletest/commit/489283524e3726b7adb9692763c2fb61b235d41a">4892835&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Now using &lt;a href="https://google.github.io/googletest/">GitHub pages&lt;/a> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/1a5a78b9a9c6c285a7897a411cb96bb2ab36d277">1a5a78b&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/d9c309fdab807b716c2cf4d4a42989b8c34f712a">d9c309f&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/c3fc92f0b7ad49ce59d804dc644dcb5ecbc0c29c">c3fc92f&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Added Bazel quickstart (&lt;code>&lt;a href="https://github.com/google/googletest/commit/32ad3c8c36382165274385a28a23addbea581f5d">32ad3c8&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Added CMake quickstart (&lt;code>&lt;a href="https://github.com/google/googletest/commit/d4e3b8cedf4f57922efa586cb3c796c8fee2d3f3">d4e3b8c&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="strongmockingstrong">&lt;strong>Mocking&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>MOCK_METHOD&lt;/code> now handles noexcept correctly (&lt;a href="https://github.com/google/googletest/pull/2498">#2498&lt;/a>)&lt;/li>
+&lt;li>&lt;code>MOCK_METHOD&lt;/code> now supports ref-qualifiers (&lt;code>&lt;a href="https://github.com/google/googletest/commit/d89b36302116233b8c6377e6e891083f41ee51c5">d89b363&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>MOCK_METHOD&lt;/code> now supports returning function pointers (&lt;code>&lt;a href="https://github.com/google/googletest/commit/1f9edcd9698162b48d94e1ef2e6a2ab7ab4e6c56">1f9edcd&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>DoAll&lt;/code> now accepts move-only arguments (&lt;code>&lt;a href="https://github.com/google/googletest/commit/48ec64092a38621210ecd835fde61d76861269c1">48ec640&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>MockFunction&lt;/code> can now be used for mocking &lt;code>std::function&lt;/code> (&lt;a href="https://github.com/google/googletest/pull/2350">#2350&lt;/a>)&lt;/li>
+&lt;li>&lt;code>MockFunction&lt;/code> is now templated for use with other function classes, besides &lt;code>std::function&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/662fe38e44900c007eccb65a5d2ea19df7bd520e">662fe38&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>ACTION&lt;/code> macros now support more than 10 arguments (&lt;code>&lt;a href="https://github.com/google/googletest/commit/63713e1ce49019da205daa1ca91b73fcfc9b333f">63713e1&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="strongmatchersstrong">&lt;strong>Matchers&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>New matchers
+&lt;ul>
+&lt;li>&lt;code>IsNan&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/bbe4b7363bbaa7c9e07dbacde11602a4c69504d3">bbe4b73&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>FieldsAre&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/a4621888650aaae118de93f9faf8ef5a18cab303">a462188&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>Pointer&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/a02a591605dfef9addde49634bf010dbe8f95c50">a02a591&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>Address&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/e5644f5f12ff3d5b2232dabc1c5ea272a52e8155">e5644f5&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>Throws&lt;/code> and &lt;code>ThrowsMessage&lt;/code> (&lt;a href="https://github.com/google/googletest/pull/2904">#2904&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>New actions
+&lt;ul>
+&lt;li>&lt;code>ReturnRoundRobin&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/37f322783175a66c11785d17fc153477b0777753">37f3227&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Added &lt;code>Matcher&amp;lt;std::string_view&amp;gt;&lt;/code> specialization that internally stores a &lt;code>string&lt;/code> instead of &lt;code>string_view&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/6f5fd0d7199b9a19faa9f499ecc266e6ae0329e7">6f5fd0d&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>String matchers now accept &lt;code>string_view&lt;/code> input (&lt;code>&lt;a href="https://github.com/google/googletest/commit/13a433a94dd9c7e55907d7a9b75f44ff82f309eb">13a433a&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>DoubleNearPredFormat&lt;/code> matcher now fails on impractically small epsilons (&lt;code>&lt;a href="https://github.com/google/googletest/commit/b5687db554a295e697f5d459cf6d3f343d2ca179">b5687db&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>&lt;code>Truly&lt;/code> matcher now explains failures (&lt;code>&lt;a href="https://github.com/google/googletest/commit/0c400f67fcf305869c5fb113dd296eca266c9725">0c400f6&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Matchers can now be implemented without extending &lt;code>MatcherInterface&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/c13c27a513ecd1cbf5700a45fe590e85e8ae6770">c13c27a&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Added output messages for skipped tests (&lt;a href="https://github.com/google/googletest/pull/2517">#2517&lt;/a>, &lt;a href="https://github.com/google/googletest/pull/2767">#2767&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="strongbehaviorstrong">&lt;strong>Behavior&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>New flags
+&lt;ul>
+&lt;li>&lt;code>--gtest_brief&lt;/code> shows only test failures in output (&lt;a href="https://github.com/google/googletest/pull/2751">#2751&lt;/a>)&lt;/li>
+&lt;li>&lt;code>--gtest_fail_fast&lt;/code> stops test execution on first failure (&lt;code>&lt;a href="https://github.com/google/googletest/commit/1ced315a483f4ecac21893ce6ceeb502afb82eff">1ced315&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Failures in &lt;code>SetUpTestSuite&lt;/code> and &lt;code>TearDownTestSuite&lt;/code> now cause tests to fail rather than log (&lt;code>&lt;a href="https://github.com/google/googletest/commit/9ed99c6c837ae1cbfcabd36959fc802ebb5ae07f">9ed99c6&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Uninstantiated &lt;code>TEST_P&lt;/code> and &lt;code>TYPED_TEST_P&lt;/code> now fail unless allowlisted using &lt;code>GTEST_ALLOW_UNINSTANTIATED_PARAMETERIZED_TEST&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/d442089d53cecbba59b2d8f35d06eac01f1e46da">d442089&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/a13a0626188b4e7d22d63a4c9fcfe9f441c81e4a">a13a062&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/0b024bd91a14a77a7e7d6072ccd88e09c86ddeaa">0b024bd&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/3e79d366e380ec85b7de9409211b184bc8529655">3e79d36&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/ec94d9f24c92a5090fda5567156d6dde99cdbf31">ec94d9f&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="strongoutputstrong">&lt;strong>Output&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Added specialized printing for &lt;code>std::any&lt;/code>, &lt;code>std::optional&lt;/code>, and &lt;code>std::variant&lt;/code> (&lt;a href="https://github.com/google/googletest/pull/2742">#2742&lt;/a>)&lt;/li>
+&lt;li>Added recursive printing for &lt;code>std::unique_ptr&lt;/code> and &lt;code>std::shared_ptr&lt;/code> (&lt;code>&lt;a href="https://github.com/google/googletest/commit/6b2e74905e9a7e70c7d1017ee0dfe5a8e88a1300">6b2e749&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Printing incomplete types is now supported (&lt;code>&lt;a href="https://github.com/google/googletest/commit/f8304d762e0ed119d3d1c72deb1976dc80029db5">f8304d7&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Start timestamps in XML/JSON output now use millisecond precision (&lt;code>&lt;a href="https://github.com/google/googletest/commit/af1e75ce0b3429d70790c049d8dbb0aae3e2480f">af1e75c&lt;/a>&lt;/code>)&lt;/li>
+&lt;li>Added more structured information about test suite to XML/JSON output on environment failures (&lt;code>&lt;a href="https://github.com/google/googletest/commit/ac1d60c2b5ae62a06eca1d2c0f9d6dc92cda8711">ac1d60c&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="strongbuild--teststrong">&lt;strong>Build &amp;amp; Test&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>CMake minimum increased to 2.8.12 (&lt;a href="https://github.com/google/googletest/pull/3094">#3094&lt;/a>)&lt;/li>
+&lt;li>GoogleTest is now using Kokoro CI instead of Travis and AppVeyor&lt;/li>
+&lt;/ul>
+&lt;h2 id="misc">&lt;strong>Misc&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Removed support for &lt;code>GTEST_HAS_STD_STRING&lt;/code> (&lt;a href="https://github.com/google/googletest/pull/2456">#2456&lt;/a>)&lt;/li>
+&lt;li>Replaced pump code generation with variadic templates (&lt;a href="https://github.com/google/googletest/pull/2388">#2388&lt;/a>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/d8eeb9760afcab45dbdd887c2b6d106887c1739d">d8eeb97&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/4b9c1691c4b7f01fbd9d37d86c88cdad298d48e9">4b9c169&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/fbf67a70d07543f40832d0cd7a58f304bc6ab1d1">fbf67a7&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/41b5f149ab306e96b5b2faf523505d75acffd98a">41b5f14&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/710f9c11ca79e578bb38d98d10ab9b70d41d5e07">710f9c1&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/997c36c1881105bd7ce482a1ec93759badf64ce6">997c36c&lt;/a>&lt;/code>, &lt;code>&lt;a href="https://github.com/google/googletest/commit/59dea67b815a046122d77113d5c6df1df66076bb">59dea67&lt;/a>&lt;/code>)&lt;/li>
+&lt;/ul></description></item></channel></rss>
