@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome Team – Documentation</title>
-    <link>https://andrewdhr.github.io/telus-awesome-team/docs/</link>
+    <link>/telus-awesome-team/docs/</link>
     <description>Recent content in Documentation on Awesome Team</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://andrewdhr.github.io/telus-awesome-team/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/telus-awesome-team/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/beds/</link>
+      <link>/telus-awesome-team/docs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/beds/</guid>
+      <guid>/telus-awesome-team/docs/tasks/beds/</guid>
       <description>
         
         
@@ -328,10 +328,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>/telus-awesome-team/docs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>/telus-awesome-team/docs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -641,10 +641,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>/telus-awesome-team/docs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>/telus-awesome-team/docs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -954,10 +954,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/porridge/</link>
+      <link>/telus-awesome-team/docs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/porridge/</guid>
+      <guid>/telus-awesome-team/docs/tasks/porridge/</guid>
       <description>
         
         
@@ -1267,10 +1267,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Another Task</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/task/</link>
+      <link>/telus-awesome-team/docs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/tasks/task/</guid>
+      <guid>/telus-awesome-team/docs/tasks/task/</guid>
       <description>
         
         
@@ -1580,10 +1580,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Example Page</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/docs/getting-started/example-page/</link>
+      <link>/telus-awesome-team/docs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/docs/getting-started/example-page/</guid>
+      <guid>/telus-awesome-team/docs/getting-started/example-page/</guid>
       <description>
         
         

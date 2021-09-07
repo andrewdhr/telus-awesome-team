@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Équipe géniale – Meeting Notes</title>
-    <link>https://andrewdhr.github.io/telus-awesome-team/fr/blog/meetings/</link>
+    <link>/telus-awesome-team/fr/blog/meetings/</link>
     <description>Recent content in Meeting Notes on Équipe géniale</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://andrewdhr.github.io/telus-awesome-team/fr/blog/meetings/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/telus-awesome-team/fr/blog/meetings/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Blog: 2021-08-15</title>
-      <link>https://andrewdhr.github.io/telus-awesome-team/fr/blog/2021/08/15/2021-08-15/</link>
+      <link>/telus-awesome-team/fr/blog/2021/08/15/2021-08-15/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewdhr.github.io/telus-awesome-team/fr/blog/2021/08/15/2021-08-15/</guid>
+      <guid>/telus-awesome-team/fr/blog/2021/08/15/2021-08-15/</guid>
       <description>
         
         
