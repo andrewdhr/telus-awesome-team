@@ -37,7 +37,7 @@ jobs:
       - run: npm ci # This command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment.
       
       - name: Build
-      - run: hugo --minify # minify HTML, CSS, and JavaScript
+        run: hugo --minify # minify HTML, CSS, and JavaScript
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
