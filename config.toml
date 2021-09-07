@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://andrewdhr.github.io/telus-awesome-team/"
 title = "Awesome Team"
 
 enableRobotsTXT = true
