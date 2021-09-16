@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/andrewdhr/telus-awesome-team.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/andrewdhr/telus-awesome-team/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://github.com/andrewdhr/telus-awesome-team#readme",
+  "dependencies": {},
   "devDependencies": {
-    "autoprefixer": "^10.3.4",
-    "postcss-cli": "^8.3.1"
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.2"
   }
 }
