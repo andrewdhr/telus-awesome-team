@@ -43,7 +43,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: demo # default: gh-pages
+          publish_branch: gh-pages # default: gh-pages
           publish_dir: ./public
           destination_dir: docs # By default, existing files in the publish branch (or only in destination_dir if given) will be removed.
           commit_message: ${{ github.event.head_commit.message }}
